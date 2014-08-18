@@ -1,0 +1,9 @@
+---
+# This playbook deploys a docker host
+
+- hosts: docker-hosts
+  user: ansible
+  sudo: yes
+  roles:
+    - common
+    - docker-host
