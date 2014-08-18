@@ -1,5 +1,4 @@
 # Ansible-Docker-Host
-===================
 Ansible Role for Docker Host setup
 
 ## Description
